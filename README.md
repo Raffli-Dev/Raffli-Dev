@@ -1,6 +1,6 @@
 <!-- Untuk edit logo ![logo](link foto github) -->
 <h1 align="center">Hi 👋, I'm Raffli Bisma Aryasatya</h1>
-<h3 align="center">I am a penetration tester || CTF || Bug Bounty || Programmer from Indonesia</h3>
+<h3 align="center">I am a penetration tester || CTF || Bug Hunter || Programmer from Indonesia</h3>
 
 <img align="right" alt="laptop" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*pekGMLKnshD1IHI429kgzQ.gif">
 
