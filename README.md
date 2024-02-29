@@ -1,14 +1,14 @@
 <!-- Untuk edit logo ![logo](link foto github) -->
 <h1 align="center">Hi 👋, I'm Raffli Bisma Aryasatya</h1>
-<h3 align="center">I am a penetration tester || CTF || Bug Hunter || Programmer from Indonesia</h3>
+<h3 align="center">I am a ## from Indonesia</h3>
 
 <img align="right" alt="laptop" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*pekGMLKnshD1IHI429kgzQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raffli-pentest&label=Profile%20views&color=0e75b6&style=flat" alt="raffli-pentest" /> </p>
 
-- 🔭 I'm currently working **Bug Bounty**
+- 🔭 I'm currently working **#**
 
-- 🌱 I’m currently learning **Framework, Penetration Testing, CTF, Linux**
+- 🌱 I’m currently learning **#**
 
 - 📝 I regularly write articles on [https://codecxploit.blogspot.com/](https://codecxploit.blogspot.com/)
 
