@@ -1,6 +1,6 @@
 <!-- Untuk edit logo ![logo](link foto github) -->
 <h1 align="center">Hi 👋, I'm Raffli Bisma Aryasatya</h1>
-<h3 align="center">I am a ## from Indonesia</h3>
+<h3 align="center">I am a Developer from Indonesia</h3>
 
 <img align="right" alt="laptop" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*pekGMLKnshD1IHI429kgzQ.gif">
 
@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently working **#**
 
-- 🌱 I’m currently learning **#**
+- 🌱 I’m currently learning **LearningX**
 
 - 📝 I regularly write articles on [https://codecxploit.blogspot.com/](https://codecxploit.blogspot.com/)
 
