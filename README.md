@@ -1,6 +1,6 @@
 <!-- Untuk edit logo ![logo](link foto github) -->
 <h1 align="center">Hi 👋, I'm Raffli Bisma Aryasatya</h1>
-<h3 align="center">I am a Developer from Indonesia</h3>
+<h3 align="center">I am a Developer & Pentester from Indonesia</h3>
 
 <img align="right" alt="laptop" width="300" height="212" src="https://static.wikia.nocookie.net/blue-archive/images/a/af/Shiroko_Live2D.gif/revision/latest/scale-to-width-down/300?cb=20210209063659">
 
