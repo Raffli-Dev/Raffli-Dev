@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Raffli Bisma Aryasatya</h1>
 <h3 align="center">I am a Developer & Pentester from Indonesia</h3>
 
-<img align="right" alt="laptop" width="300" height="212" src="https://media1.tenor.com/m/4yGXtWLgWZsAAAAd/blue-archive-shiroko.gif">
+<img align="right" alt="laptop" width="300" height="212" src="https://64.media.tumblr.com/243418c72e2de30b1237923f2862fbd7/e14fb1407c080ca7-2f/s500x750/77521f6eda0979052bc2317b1a2e1694f67bb221.gifv">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raffli-pentest&label=Profile%20views&color=0e75b6&style=flat" alt="raffli-pentest" /> </p>
 
