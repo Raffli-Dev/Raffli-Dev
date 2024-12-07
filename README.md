@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a25306aa-270a-4f83-811e-66573a71dea8)<!-- Untuk edit logo ![logo](link foto github) -->
+<!-- Untuk edit logo ![logo](link foto github) -->
 <h1 align="center">Hi 👋, I'm Raffli Bisma Aryasatya</h1>
 <h3 align="center">I am a Developer & Pentester from Indonesia</h3>
 
