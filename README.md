@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Raffli Bisma Aryasatya</h1>
 <h3 align="center">I am a Developer & Pentester from Indonesia</h3>
 
-<img align="right" alt="laptop" width="300" height="212" src="https://static.wikia.nocookie.net/blue-archive/images/a/af/Shiroko_Live2D.gif/revision/latest/scale-to-width-down/300?cb=20210209063659">
+<img align="right" alt="laptop" width="300" height="212" src="https://camo.githubusercontent.com/1a5472f1390c07137b6825d780c43146db626e94f749093514dec34045f7be30/68747470733a2f2f7374617469632e77696b69612e6e6f636f6f6b69652e6e65742f626c75652d617263686976652f696d616765732f612f61662f536869726f6b6f5f4c69766532442e6769662f7265766973696f6e2f6c61746573742f7363616c652d746f2d77696474682d646f776e2f3330303f63623d3230323130323039303633363539">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raffli-pentest&label=Profile%20views&color=0e75b6&style=flat" alt="raffli-pentest" /> </p>
 
