@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://codecxploit.blogspot.com/](https://codecxploit.blogspot.com/)
 
-- 📫 How to reach me **raflibismaaryasatya@gmail.com**
+- 📫 How to reach me **raffli@wearehackerone.com**
 
 - ⚡ Fun fact **I think I am funny**
 
