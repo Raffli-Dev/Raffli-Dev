@@ -25,6 +25,7 @@ Certificates :
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://evil.com "AWS Certified Developer – Associate")
 [![MongoDB Associate Developer](https://images.credly.com/size/110x110/images/46c663b1-d946-4f0e-8698-a490bd52b384/image.png)](http://evil.com "MongoDB Associate Developer")
 [![Microsoft Certified: Security Operations Analyst Associate](https://images.credly.com/size/110x110/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png)](http://evil.com "Microsoft Certified: Security Operations Analyst Associate")
+[![ICIP](https://images.credly.com/size/110x110/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png)](https://www.credly.com/badges/91b3d021-6b25-42f0-be37-da60a56dd14c/public_url "ICIP")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
