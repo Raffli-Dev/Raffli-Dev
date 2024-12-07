@@ -16,6 +16,10 @@
 
 - ⚡ Fun fact **I think I am funny**
 
+Certificates :
+
+[![Professional Cloud Developer Certification](https://images.credly.com/size/110x110/images/614465c6-1d80-4ae6-a323-753de224422a/image.png)](http://www.credly.com/badges/7fc61415-97dc-4656-8926-1fef8940c542 "Professional Cloud Developer Certification")
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raffli-bisma-aryasatya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raffli-bisma-aryasatya" height="30" width="40" /></a>
