@@ -24,6 +24,7 @@ Certificates :
 [![Network Security](https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png)](http://evil.com "Network Security")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://evil.com "AWS Certified Developer – Associate")
 [![MongoDB Associate Developer](https://images.credly.com/size/110x110/images/46c663b1-d946-4f0e-8698-a490bd52b384/image.png)](http://evil.com "MongoDB Associate Developer")
+[![SOC ANalisis]([https://images.credly.com/size/110x110/images/46c663b1-d946-4f0e-8698-a490bd52b384/image.png](https://images.credly.com/size/340x340/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png))](http://evil.com "SOC")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
