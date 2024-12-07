@@ -23,7 +23,6 @@ Certificates :
 [![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/110x110/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](http://evil.com "AWS Academy Graduate - AWS Academy Cloud Architecting")
 [![Network Security](https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png)](http://evil.com "Network Security")
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://evil.com "AWS Certified Developer – Associate")
-[![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)](http://evil.com "AWS Certified Security – Specialty")
 [![MongoDB Associate Developer](https://images.credly.com/size/110x110/images/46c663b1-d946-4f0e-8698-a490bd52b384/image.png)](http://evil.com "MongoDB Associate Developer")
 
 <h3 align="left">Connect with me:</h3>
