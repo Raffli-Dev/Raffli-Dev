@@ -91,14 +91,4 @@ Certificates :
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Raffli">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Raffli&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fhclwxpdymfy7p32wboxdcvgay&width=800)
