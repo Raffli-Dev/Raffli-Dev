@@ -41,5 +41,8 @@ Certificates :
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raffli-dev&" alt="raffli-dev" /></p>
 
 <!--Test-->
-## My Contribution snake
-![snake gif](https://github.com/Raffli-Dev/Raffli-Dev/blob/output/github-contribution-grid-snake.gif)
+
+## My Contribution Snake
+
+![Snake animation](https://github.com/Raffli-Dev/Raffli-Dev/blob/output/dist/github-contribution-grid-snake.svg)
+![Snake animation (Dark)](https://github.com/Raffli-Dev/Raffli-Dev/blob/output/dist/github-contribution-grid-snake-dark.svg)
