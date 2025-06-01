@@ -42,4 +42,4 @@ Certificates :
 
 <!--Test-->
 ## My Contribution snake
-![Contribution snake example](https://github.com/Raffli-Dev/Raffli-Dev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Raffli-Dev/Raffli-Dev/blob/output/github-contribution-grid-snake.gif)
