@@ -1,5 +1,7 @@
 <!-- Untuk edit logo ![logo](link foto github) -->
-<div align="center">![Raffli-Dev](github-header-image.png)</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raffli-Dev/Raffli-Dev/master/github-header-image.png" alt="Raffli-Dev Header" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Raffli Bisma Aryasatya</h1>
 <h3 align="center">I am a Developer & Pentester from Indonesia</h3>
 
