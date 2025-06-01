@@ -1,7 +1,6 @@
-![Raffli-Dev](github-header-image.png)
-
 <!-- Untuk edit logo ![logo](link foto github) -->
 <h1 align="center">Hi 👋, I'm Raffli Bisma Aryasatya</h1>
+![Raffli-Dev](github-header-image.png)
 <h3 align="center">I am a Developer & Pentester from Indonesia</h3>
 
 <img align="right" alt="laptop" width="300" height="212" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif">
