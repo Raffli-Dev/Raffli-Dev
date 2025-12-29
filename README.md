@@ -34,10 +34,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raffli-Dev&show_icons=true&locale=en&layout=compact" alt="raffli-dev" /></p>
 
-![Raffli Dev](https://github-readme-stats.vercel.app/api?username=Raffli-Dev&show_icons=true&theme=radical)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raffli-Dev&" alt="raffli-dev" /></p>
-
 <!--Test-->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fhclwxpdymfy7p32wboxdcvgay&width=800)
