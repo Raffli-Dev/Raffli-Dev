@@ -32,8 +32,5 @@
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Raffli-Dev/Raffli-Dev/output/pacman-contribution-graph.svg">
 </picture>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raffli-Dev&show_icons=true&locale=en&layout=compact" alt="raffli-dev" /></p>
-
 <!--Test-->
-
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fhclwxpdymfy7p32wboxdcvgay&width=800)
