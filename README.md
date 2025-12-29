@@ -15,17 +15,6 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-# Certificates :
-
-[![ICIP](https://images.credly.com/size/110x110/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png)](https://www.credly.com/badges/91b3d021-6b25-42f0-be37-da60a56dd14c/public_url "ICIP")
-[![Professional Cloud Developer Certification](https://images.credly.com/size/110x110/images/614465c6-1d80-4ae6-a323-753de224422a/image.png)](http://evil.com "Professional Cloud Developer Certification")
-[![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)]([http://www.credly.com/badges/5eac34bb-d121-4926-a789-e8c94b627484](http://evil.com "AWS Certified Security – Specialty")
-[![AWS Academy Graduate - AWS Academy Cloud Architecting](https://images.credly.com/size/110x110/images/2f7b0627-48a0-4894-8d46-3245bdfe0463/image.png)](http://evil.com "AWS Academy Graduate - AWS Academy Cloud Architecting")
-[![Network Security](https://images.credly.com/size/110x110/images/f7387386-553c-4be5-b3f3-077f78152f31/Network_Security.png)](http://evil.com "Network Security")
-[![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](http://evil.com "AWS Certified Developer – Associate")
-[![MongoDB Associate Developer](https://images.credly.com/size/110x110/images/46c663b1-d946-4f0e-8698-a490bd52b384/image.png)](http://evil.com "MongoDB Associate Developer")
-[![Microsoft Certified: Security Operations Analyst Associate](https://images.credly.com/size/110x110/images/7e75516f-5149-4d19-8d09-aa3dab4907cb/security-operations-analyst-associate-600x600.png)](http://evil.com "Microsoft Certified: Security Operations Analyst Associate")
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
