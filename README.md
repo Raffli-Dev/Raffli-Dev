@@ -9,8 +9,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raffli-pentest&label=Profile%20views&color=0e75b6&style=flat" alt="raffli-pentest" /> </p>
 
-- 📝 I regularly write articles on [https://codecxploit.blogspot.com/](https://codecxploit.blogspot.com/)
-
 - 📫 How to reach me **raffli@wearehackerone.com**
 
 - ⚡ Fun fact **I think I am funny**
