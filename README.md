@@ -1,6 +1,6 @@
 <!-- Untuk edit logo ![logo](link foto github) -->
 <p align="center">
-  <img src="github-header-image.png" alt="Raffli-Dev Header" width="100%">
+  <img src="github-header-banner.png" alt="Raffli-Dev Header" width="100%">
 </p>
 
 <h2 align="center">FROM ZERO TO HERO</h2>
